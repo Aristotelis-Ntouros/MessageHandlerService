@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6SafGecnsYo09xmwpSmXv2ljgpmniRZGWPGRdikBs2U=",
+  "Source": "MessageHandlerService",
+  "BasePath": "_content/MessageHandlerService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
